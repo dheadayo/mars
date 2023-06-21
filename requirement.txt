@@ -1,0 +1,13 @@
+git init
+
+git add  .
+
+.git commit -m 'First Commit'
+
+
+git remote add origin "https://github.com/adityachandra01/belitanahdimars"
+
+git branch -M main
+
+git push -u origin main
+
